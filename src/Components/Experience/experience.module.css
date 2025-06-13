@@ -1,0 +1,34 @@
+.MainSection {
+    display: flex;
+    flex-direction: column;
+    padding: 100px 171px 100px;
+    position: relative;
+}
+
+.TopSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.LeftSection h1 {
+    color: #ffffff;
+    font-family: "Poppins", sans-serif;
+    font-size: 33px;
+    font-weight: bold;
+    line-height: auto;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.LeftSection p{
+    color: #ffffff;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+}
+
+.BottomSection {
+    display: flex;
+    gap: 306px;
+}
