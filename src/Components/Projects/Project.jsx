@@ -29,7 +29,7 @@ const Project = () => {
           <p1>Developed using React frontend</p1>
 
           <a
-            href=" https://spotify-clone-git-main-lokeshsattimsetti7s-projects.vercel.app/"
+            href=" https://github.com/sairamnunna/calculator/"
             target="_blank"
             rel="noopener noreferrer"
           >
