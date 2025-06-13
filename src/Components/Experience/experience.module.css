@@ -32,3 +32,58 @@
     display: flex;
     gap: 306px;
 }
+
+@media (min-width: 320px) and (max-width: 600px){
+    .MainSection {
+        padding: 50px 20px;
+    }
+
+    .TopSection {
+    font-size: 15px;
+
+}
+.LeftSection h1 {
+    font-size: 15px;
+    font-weight: 600;
+}
+.LeftSection p{
+    font-size: 12px;
+}
+    
+}
+@media (min-width: 601px) and (max-width: 900px){
+    .MainSection {
+        padding: 50px 20px;
+    }
+    .TopSection {
+    font-size: 20px;
+
+}
+.LeftSection h1 {
+    font-size: 20px;
+    font-weight: 600;
+}
+.LeftSection p{
+    font-size: 17px;
+}
+    
+}
+
+@media (min-width: 901px) and (max-width: 1200px){
+  .MainSection {
+        padding: 50px 20px;
+        padding-left: 80px;
+
+    }
+    .TopSection {
+    font-size: 25px;
+
+}
+.LeftSection h1 {
+    font-size: 25px;
+    font-weight: 600;
+}
+.LeftSection p{
+    font-size: 20px;
+}
+}
